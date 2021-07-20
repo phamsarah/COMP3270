@@ -1,0 +1,26 @@
+Sarah Pham
+
+Names of all files:
+- phw_input.txt
+- src
+-- mscs_problem.java
+- bin
+- SarahPham_phw_output.txt
+- SarahPham_phw_output_Excel
+- TimeComplexity.doc
+
+Note: Once the program compiles, "SarahPham_phw_output.txt" contents will be rewritten.
+However, the values are currently documented in "SarahPham_phw_output_Excel".
+
+
+How to Compile:
+	- Open Eclipse for Java
+	- Open the "Programming Assignment" workspace
+	- Compile and Run "mscs_problem.java" using the green run button
+	- Feel free to change the contents of "phw_input.txt"
+	
+I certify that I wrote the code I am submitting.
+I did not copy whole or parts of it from another 
+student or have another person write the code for me. 
+Any code I am reusing in my program is clearly marked 
+as such with its source clearly identified in comments.
